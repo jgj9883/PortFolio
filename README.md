@@ -3,11 +3,11 @@
 전규빈, Kyubin Jeon
 동의대학교 컴퓨터소프트웨어공학과 4학년 1학기 재학 中 (22년 졸업예정)
 
-관심 연구 분야 : Deep Learning, Machine Learning, Computer
+관심 연구 분야 : Deep Learning, Machine Learning, Nature Language Processing
 
 - [Demo](#demo)
 - [Screenshots](#screenshots)
-- [프로젝트 경험](#프로젝트 경험)
+- [프로젝트](#프로젝트)
 - [교내활동](#교내활동)
 - [자격증](#자격증)
 
@@ -19,7 +19,7 @@
 #![homepage](tmp/screenshot.jpg?raw=true "Homepage")
 
 
-### 프로젝트 & 개인공부
+### ⏱ 프로젝트 & 개인공부
 
   #### 프로젝트
     - ROS(Robot Operating System)를 이용한 로봇청소기 설계 및 구현
@@ -37,7 +37,7 @@
 - 2020.12.21 ~ 2020.12.24 빅데이터 수집분석을 위한 Python 과정 교육
 
 
-  #### 수상내역
+  #### 🏆 수상내역
   - 2020.09 ~ 2020.12 3학년 2학기 성적우수상 최우수상(총장상) 동의대학교
   - 2020.12.29 동아리연계캡스톤디자인Ⅰ 프로젝트 발표회 우수상(총장상) 수상 동의대학교
 
@@ -47,7 +47,7 @@
 - 2020.12.24 MTA: Introduction to Programming using Python
 
 
-### 사용경험
+### 🗡사용경험
 - C
 - C++
 - JAVA
