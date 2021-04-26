@@ -11,7 +11,7 @@
 - [Screenshots](#screenshots)
 - [프로젝트](#프로젝트)
 - [교내활동](#교내활동)
-- [자격증](#*자격증)
+- [자격증](#자격증)
 
 ### Demo
 [abhn.io](https://abhn.io)
