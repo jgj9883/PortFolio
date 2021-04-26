@@ -7,7 +7,7 @@
 
 - [Demo](#demo)
 - [Screenshots](#screenshots)
-- [Features](#features)
+- [프로젝트 경험](#프로젝트 경험)
 - [교내활동](#교내활동)
 - [자격증](#자격증)
 
@@ -17,12 +17,14 @@
 ### Screenshots
 #![homepage](tmp/screenshot.jpg?raw=true "Homepage")
 
-### 프로젝트 경험
-  #### ROS(Robot Operating System)
-    - 로봇청소기
-  #### 학사관리시스템
-  #### MFC를 이용한 네트워크 게임 구현
-  #### 디자인 패턴을 이용한 병동관리시스템
+### 프로젝트 & 개인공부
+  #### 프로젝트
+    - ROS(Robot Operating System)를 이용한 로봇청소기 설계 및 구현
+    - 학사관리시스템
+    - MFC를 이용한 네트워크 게임 구현
+    - JAVA 기반의 (전략, 옵저버)디자인 패턴을 이용한 병동관리시스템
+  #### 개인공부
+  
 
 ### 교내활동
 - 2019.09.18 ~ 2019.09.27 편지쓰기 콘테스트
