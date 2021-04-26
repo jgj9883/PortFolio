@@ -18,11 +18,10 @@
 ![homepage](tmp/screenshot.jpg?raw=true "Homepage")
 
 ### Features
-- Single page portfolio made with vanilla CSS and jQuery
-- Sections: Landing, About, Skills (with neat bar graphs), Projects, Contact
-- Smooth scrolling
-- Fully mobile responsive, made with latest CSS3 grid and flexbox, polyfills included
-- Lightweight and easily customizable
+- 2019. 09. 18 ~ 2019. 09. 27 편지쓰기 콘테스트
+- 2020. 09. 12 ~ 2020. 09. 20 DSAC3 데이터 사이언티스트 능력인증자격 전문교육훈련과정 M3.Machine Learning 교육
+- 2020. 11. 21 ~ 2020. 11. 29 DSAC4 데이터 사이언티스트 능력인증자격 전문교육훈련과정 M4.Deep Learning 교육
+- 2020. 12. 21 ~ 2020. 12. 24 빅데이터 수집분석을 위한 Python 과정 교육
 
 ### 교내활동 & 수료
 - 2019. 09. 18 ~ 2019. 09. 27 편지쓰기 콘테스트
