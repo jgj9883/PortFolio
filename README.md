@@ -1,6 +1,6 @@
 # Portfolio
 
-전규빈, Kyubin Jeon #
+전규빈, Kyubin Jeon ##
 동의대학교 컴퓨터소프트웨어공학과 4학년 1학기 재학 中 (22년 졸업예정)
 
 ### 
