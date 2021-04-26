@@ -7,6 +7,7 @@
 동의대학교 컴퓨터소프트웨어공학과 김성우 교수님의 Embedded Computer 연구실 소속입니다.
 관심 연구 분야 : Deep Learning, Machine Learning, Nature Language Processing
 
+(미완성) 
 ### 목록
 - [Screenshots](#screenshots)
 - [프로젝트](#프로젝트)
