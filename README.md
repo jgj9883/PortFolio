@@ -23,10 +23,29 @@
 ### ⏱ 프로젝트 & 개인공부
 
   #### 프로젝트
-    - ROS(Robot Operating System)를 이용한 로봇청소기 설계 및 구현
-    - 학사관리시스템
-    - MFC를 이용한 네트워크 게임 구현
-    - JAVA 기반의 (전략, 옵저버)디자인 패턴을 이용한 병동관리시스템
+   ##### C++
+      - MFC를 이용한 네트워크 게임 구현
+      
+   ##### ROS(Robot Operating System)
+      - 미로찾기 MAZE System 
+      - 로봇청소기 Robot Vcuum
+      
+   ##### JAVA 
+      - 학사관리시스템 Academic Management System
+      - 디자인 패턴을 활용한 병동관리시스템 Ward Management System
+   
+   ##### HTML, CSS, JS
+      - 동의대학교 컴퓨터소프트웨어공학과 웹 유지 보수
+      
+   ##### Android
+      - 치아관리서비스 To's
+   
+   
+   ##### Pro C
+      - 치아관리서비스 Using Oracle DataBase
+   
+   
+
   #### 개인공부
   
 
