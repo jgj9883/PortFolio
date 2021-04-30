@@ -58,10 +58,17 @@
     - SVM 개념 및 예제
     
   #### Rasberry Pi
-    
+    - GPIO LED 제어
+    - Open CV를 활용한 얼굴인식
+    - CCTV 만들기
+    - RC카
   #### Voice recognition
+    - Google Cloud Service의 STT, TTS를 사용한 간단한 음성 자동응답기
+    - Snow Boy의 Hot Word Detector 사용 
   #### Web Server
-
+    - Django를 사용한 미니 소셜 미디어 Dstargram 제작
+    - Django를 사용한 Bookmark 제작
+    - FastAPI를 사용한 로그인, 로그아웃, 회원가입 등의 사용자 관리 페이지 제작 
 
 ### 🌈 교내활동
 - 2019.05.13 ~ 2019.06.16 2019-2학기 전공튜터링 (튜티)
