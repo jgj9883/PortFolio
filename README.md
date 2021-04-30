@@ -3,7 +3,7 @@
 전규빈, Kyubin Jeon  
 동의대학교 컴퓨터소프트웨어공학과 4학년 1학기 재학 中 (22년 졸업예정)
 - 소속 : 동의대학교 컴퓨터소프트웨어공학과 김성우 교수님의 Embedded Computer 연구실 소속  
-- 관심 연구분야 : Deep Learning, Machine Learning, Nature Language Processing
+- 관심 연구분야 : AI, Deep Learning, Machine Learning, Nature Language Processing
 
 (미완성) 
 ### 목록
