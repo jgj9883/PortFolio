@@ -17,7 +17,7 @@
 
 
 ### Screenshots
-![homepage](tmp/screenshot.jpg?raw=true "Homepage")
+![image](https://user-images.githubusercontent.com/57741060/116653926-1cb0d580-a9c3-11eb-8cd6-2267c0a5c898.png)
 
 
 ### ⏱ 프로젝트
@@ -48,7 +48,7 @@
    
 ### 📝개인공부
   #### AI
-    - logistic regression를 사용한 영화 리뷰 긍부정 판별
+    - Logistic Regression를 사용한 영화 리뷰 긍부정 판별
     - DNN을 사용한 마스크 착용 유무 판별
     - Faster RCNN를 사용한 이미지 추론 예제
     - RNN을 사용한 중고 물품 가격 예측 (프로젝트)
@@ -60,7 +60,7 @@
   #### Rasberry Pi
     - GPIO LED 제어
     - Open CV를 활용한 얼굴인식
-    - CCTV 만들기
+    - Motion을 활용한 원격 CCTV 만들기
     - RC카
   #### Voice recognition
     - Google Cloud Service의 STT, TTS를 사용한 간단한 음성 자동응답기
