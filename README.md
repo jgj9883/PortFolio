@@ -31,6 +31,10 @@
   ### RC 카
    ![image](https://user-images.githubusercontent.com/57741060/116655673-74047500-a9c6-11eb-86c2-a5d4a103f93c.png)
    ![image](https://user-images.githubusercontent.com/57741060/116655682-78309280-a9c6-11eb-8b6f-5ace31fd93e1.png)
+  
+  ### 마스크 착용 여부 판별
+   ![image](https://user-images.githubusercontent.com/57741060/116655930-cc3b7700-a9c6-11eb-9c37-5d9b32ee12cb.png)
+   ![image](https://user-images.githubusercontent.com/57741060/116655941-cf366780-a9c6-11eb-8c92-f7f2a410b81e.png)
 
   
 ### ⏱ 프로젝트
