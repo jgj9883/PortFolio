@@ -49,7 +49,7 @@
     - GPIO LED 제어
     - Open CV를 활용한 얼굴인식
     - Motion을 활용한 원격 CCTV 만들기
-    - RC카
+    - 얼굴인식 원격 RC카
   #### Voice recognition
     - Google Cloud Service의 STT, TTS를 사용한 간단한 음성 자동응답기
     - Snow Boy의 Hot Word Detector 사용 
