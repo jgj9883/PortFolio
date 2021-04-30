@@ -105,7 +105,7 @@
 
 ### 👑 자격증
 - 2020.09 ~ 2020.12 DSAC 데이터 사이언티스트 능력 인증자격 3급(전문가) kpc(한국생산성본부)
-- 2020.12.24 MTA: Introduction to Programming using Python
+- 2020.12.24 MTA: Introduction to Programming using Python (Microsoft)
 
 
 ### 🗡사용경험
