@@ -5,16 +5,11 @@
 - 소속 : 동의대학교 컴퓨터소프트웨어공학과 김성우 교수님의 Embedded Computer 연구실 소속  
 - 관심 연구분야 : AI, Deep Learning, Machine Learning, Nature Language Processing
 
-(미완성) 
 ### 목록
 - [Screenshots](#screenshots)
 - [프로젝트](#프로젝트)
 - [교내활동](#교내활동)
 - [자격증](#자격증)
-
-### Demo
-[abhn.io](https://abhn.io)
-
 
 ### 🃏 Screenshots
   ### Ward Management System
@@ -27,9 +22,13 @@
    ![image](https://user-images.githubusercontent.com/57741060/116654801-d9576680-a9c4-11eb-89dd-a6545a67a03c.png)
 
   ### Robot Vcuum
-   ![image](https://user-images.githubusercontent.com/57741060/116654701-add47c00-a9c4-11eb-86bb-ab4791fd8474.png) 
+   ![image](https://user-images.githubusercontent.com/57741060/116654701-add47c00-a9c4-11eb-86bb-ab4791fd8474.png)
 
+  ### 치아관리시스템 Using Oracle DataBase
+   ![image](https://user-images.githubusercontent.com/57741060/116655112-74504080-a9c5-11eb-9337-76691fa1f5d5.png)
+   ![image](https://user-images.githubusercontent.com/57741060/116655069-63073400-a9c5-11eb-889e-b130f1aa2c40.png)
 
+  
 ### ⏱ 프로젝트
 
   #### 프로젝트
@@ -49,7 +48,7 @@
       - 치아관리서비스 To's
    
    ##### Pro C
-      - 치아관리서비스 Using Oracle DataBase
+      - 치아관리시스템 Using Oracle DataBase
      
    ##### ROS(Robot Operating System)
       - 미로찾기 MAZE System 
