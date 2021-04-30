@@ -17,7 +17,7 @@
 
 
 ### Screenshots
-#![homepage](tmp/screenshot.jpg?raw=true "Homepage")
+![homepage](tmp/screenshot.jpg?raw=true "Homepage")
 
 
 ### ⏱ 프로젝트
@@ -25,11 +25,13 @@
   #### 프로젝트
    ##### C++
       MFC를 이용한 네트워크 게임 구현
-            
+   
    ##### JAVA 
       학사관리시스템 Academic Management System
       디자인 패턴을 활용한 병동관리시스템 Ward Management System
-   
+   ##### Python
+      캡스톤 디자인 중고 물품 가격 예측 Predict Price
+      캡스톤 디자인 사용자 추천 시스템 Recommendation System
    ##### HTML, CSS, JS
       동의대학교 컴퓨터소프트웨어공학과 웹 유지 보수
       
@@ -45,7 +47,14 @@
    
    
 ### 📝개인공부
-  
+  #### AI
+    ##### logistic regression를 사용한 긍부정 판별
+    ##### DNN을 사용한 마스크 착용 유무 판별
+    ##### Faster RCNN를 사용한 이미지 추론 예제
+    #### 
+  #### Rasberry Pi
+  #### Voice recognition
+  #### Web Server
 
 
 ### 🌈 교내활동
