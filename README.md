@@ -17,9 +17,9 @@
 
 
 ### Screenshots
-1) [Ward Management System]
-![image](https://user-images.githubusercontent.com/57741060/116654146-8c26c500-a9c3-11eb-94db-bc777d08a1dc.png)
-![image](https://user-images.githubusercontent.com/57741060/116653926-1cb0d580-a9c3-11eb-8cd6-2267c0a5c898.png)
+  ### Ward Management System
+    ![image](https://user-images.githubusercontent.com/57741060/116654146-8c26c500-a9c3-11eb-94db-bc777d08a1dc.png)
+    ![image](https://user-images.githubusercontent.com/57741060/116653926-1cb0d580-a9c3-11eb-8cd6-2267c0a5c898.png)
 
 
 ### ⏱ 프로젝트
