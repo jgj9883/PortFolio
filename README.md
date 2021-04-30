@@ -31,7 +31,7 @@
      
    ##### ROS(Robot Operating System)
       - 미로찾기 MAZE System 
-      - 로봇청소기 Robot Vcuum
+      - 로봇청소기 Robot Vacuum
    
    
 ### 📝개인공부
@@ -69,7 +69,7 @@
    ![image](https://user-images.githubusercontent.com/57741060/116654786-d3618580-a9c4-11eb-9627-1c4591de663a.png)
    ![image](https://user-images.githubusercontent.com/57741060/116654801-d9576680-a9c4-11eb-89dd-a6545a67a03c.png)
 
-  ### Robot Vcuum (Project)
+  ### Robot Vacuum (Project)
    ![image](https://user-images.githubusercontent.com/57741060/116654701-add47c00-a9c4-11eb-86bb-ab4791fd8474.png)
 
   ### 치아관리시스템 Using Oracle DataBase (Project)
