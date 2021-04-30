@@ -48,14 +48,14 @@
    
 ### 📝개인공부
   #### AI
-    logistic regression를 사용한 영화 리뷰 긍부정 판별
-    DNN을 사용한 마스크 착용 유무 판별
-    Faster RCNN를 사용한 이미지 추론 예제
-    RNN을 사용한 중고 물품 가격 예측 (프로젝트)
-    KNN을 사용한 사용자 추천 시스템 (프로젝트 진행중)
-    YOLO 개념 및 예제
-    CNN 개념 및 예제
-    SVM 개념 및 예제
+    - logistic regression를 사용한 영화 리뷰 긍부정 판별
+    - DNN을 사용한 마스크 착용 유무 판별
+    - Faster RCNN를 사용한 이미지 추론 예제
+    - RNN을 사용한 중고 물품 가격 예측 (프로젝트)
+    - KNN을 사용한 사용자 추천 시스템 (프로젝트 진행중)
+    - YOLO 개념 및 예제
+    - CNN 개념 및 예제
+    - SVM 개념 및 예제
     
   #### Rasberry Pi
     
