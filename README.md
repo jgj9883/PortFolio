@@ -24,26 +24,26 @@
 
   #### 프로젝트
    ##### C++
-      MFC를 이용한 네트워크 게임 구현
+      - MFC를 이용한 네트워크 게임 구현
    
    ##### JAVA 
-      학사관리시스템 Academic Management System
-      디자인 패턴을 활용한 병동관리시스템 Ward Management System
+      - 학사관리시스템 Academic Management System
+      - 디자인 패턴을 활용한 병동관리시스템 Ward Management System
    ##### Python
-      캡스톤 디자인 중고 물품 가격 예측 Predict Price  (진행중)
-      캡스톤 디자인 사용자 추천 시스템 Recommendation System (진행중)
+      - 캡스톤 디자인 중고 물품 가격 예측 Predict Price  (진행중)
+      - 캡스톤 디자인 사용자 추천 시스템 Recommendation System (진행중)
    ##### HTML, CSS, JS
-      동의대학교 컴퓨터소프트웨어공학과 웹 유지 보수
+      - 동의대학교 컴퓨터소프트웨어공학과 웹 유지 보수
       
    ##### Android
-      치아관리서비스 To's
+      - 치아관리서비스 To's
    
    ##### Pro C
-      치아관리서비스 Using Oracle DataBase
+      - 치아관리서비스 Using Oracle DataBase
      
    ##### ROS(Robot Operating System)
-      미로찾기 MAZE System 
-      로봇청소기 Robot Vcuum
+      - 미로찾기 MAZE System 
+      - 로봇청소기 Robot Vcuum
    
    
 ### 📝개인공부
