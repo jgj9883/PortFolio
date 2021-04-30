@@ -5,37 +5,6 @@
 - 소속 : 동의대학교 컴퓨터소프트웨어공학과 김성우 교수님의 Embedded Computer 연구실 소속  
 - 관심 연구분야 : AI, Deep Learning, Machine Learning, Nature Language Processing
 
-### 목록
-- [Screenshots](#screenshots)
-- [프로젝트](#프로젝트)
-- [교내활동](#교내활동)
-- [자격증](#자격증)
-
-### 🃏 Screenshots
-  ### Ward Management System (Project)
-   ![image](https://user-images.githubusercontent.com/57741060/116654146-8c26c500-a9c3-11eb-94db-bc777d08a1dc.png)
-   ![image](https://user-images.githubusercontent.com/57741060/116653926-1cb0d580-a9c3-11eb-8cd6-2267c0a5c898.png)
-    
-  ### 치아관리서비스 To's (Project)
-   ![image](https://user-images.githubusercontent.com/57741060/116654770-cf356800-a9c4-11eb-88fe-7e719ebf1791.png)
-   ![image](https://user-images.githubusercontent.com/57741060/116654786-d3618580-a9c4-11eb-9627-1c4591de663a.png)
-   ![image](https://user-images.githubusercontent.com/57741060/116654801-d9576680-a9c4-11eb-89dd-a6545a67a03c.png)
-
-  ### Robot Vcuum (Project)
-   ![image](https://user-images.githubusercontent.com/57741060/116654701-add47c00-a9c4-11eb-86bb-ab4791fd8474.png)
-
-  ### 치아관리시스템 Using Oracle DataBase (Project)
-   ![image](https://user-images.githubusercontent.com/57741060/116655112-74504080-a9c5-11eb-9337-76691fa1f5d5.png)
-   ![image](https://user-images.githubusercontent.com/57741060/116655069-63073400-a9c5-11eb-889e-b130f1aa2c40.png)
-  
-  ### RC 카
-   ![image](https://user-images.githubusercontent.com/57741060/116655673-74047500-a9c6-11eb-86c2-a5d4a103f93c.png)
-   ![image](https://user-images.githubusercontent.com/57741060/116655682-78309280-a9c6-11eb-8b6f-5ace31fd93e1.png)
-  
-  ### 마스크 착용 여부 판별
-   ![image](https://user-images.githubusercontent.com/57741060/116655930-cc3b7700-a9c6-11eb-9c37-5d9b32ee12cb.png)
-   ![image](https://user-images.githubusercontent.com/57741060/116655941-cf366780-a9c6-11eb-8c92-f7f2a410b81e.png)
-
   
 ### ⏱ 프로젝트
 
@@ -86,6 +55,35 @@
     - Django를 사용한 미니 소셜 미디어 Dstargram 제작
     - Django를 사용한 Bookmark 제작
     - FastAPI를 사용한 로그인, 로그아웃, 회원가입 등의 사용자 관리 페이지 제작 
+
+
+### 🃏 Screenshots
+  ### Ward Management System (Project)
+   ![image](https://user-images.githubusercontent.com/57741060/116654146-8c26c500-a9c3-11eb-94db-bc777d08a1dc.png)
+   ![image](https://user-images.githubusercontent.com/57741060/116653926-1cb0d580-a9c3-11eb-8cd6-2267c0a5c898.png)
+    
+  ### 치아관리서비스 To's (Project)
+   ![image](https://user-images.githubusercontent.com/57741060/116654770-cf356800-a9c4-11eb-88fe-7e719ebf1791.png)
+   ![image](https://user-images.githubusercontent.com/57741060/116654786-d3618580-a9c4-11eb-9627-1c4591de663a.png)
+   ![image](https://user-images.githubusercontent.com/57741060/116654801-d9576680-a9c4-11eb-89dd-a6545a67a03c.png)
+
+  ### Robot Vcuum (Project)
+   ![image](https://user-images.githubusercontent.com/57741060/116654701-add47c00-a9c4-11eb-86bb-ab4791fd8474.png)
+
+  ### 치아관리시스템 Using Oracle DataBase (Project)
+   ![image](https://user-images.githubusercontent.com/57741060/116655112-74504080-a9c5-11eb-9337-76691fa1f5d5.png)
+   ![image](https://user-images.githubusercontent.com/57741060/116655069-63073400-a9c5-11eb-889e-b130f1aa2c40.png)
+  
+  ### RC 카 (study)
+   ![image](https://user-images.githubusercontent.com/57741060/116655673-74047500-a9c6-11eb-86c2-a5d4a103f93c.png)
+   ![image](https://user-images.githubusercontent.com/57741060/116655682-78309280-a9c6-11eb-8b6f-5ace31fd93e1.png)
+  
+  ### 마스크 착용 여부 판별 (study)
+   ![image](https://user-images.githubusercontent.com/57741060/116655930-cc3b7700-a9c6-11eb-9c37-5d9b32ee12cb.png)
+   ![image](https://user-images.githubusercontent.com/57741060/116655941-cf366780-a9c6-11eb-8c92-f7f2a410b81e.png)
+
+
+
 
 ### 🌈 교내활동
 - 2019.05.13 ~ 2019.06.16 2019-2학기 전공튜터링 (튜티)
