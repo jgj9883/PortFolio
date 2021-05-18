@@ -19,7 +19,7 @@
       - 디자인 패턴을 활용한 병동관리시스템 Ward Management System
    ##### Python
       - 캡스톤 디자인 중고 물품 가격 예측 Predict Price  (진행중)
-      - 캡스톤 디자인 사용자 추천 시스템 Recommendation System (진행중)
+      - 캡스톤 디자인 연관 상품 추천 시스템 Recommendation System (진행중)
    ##### HTML, CSS, JS
       - 동의대학교 컴퓨터소프트웨어공학과 웹 유지 보수
       
@@ -40,7 +40,7 @@
     - DNN을 사용한 마스크 착용 유무 판별
     - Faster RCNN를 사용한 이미지 추론 예제
     - RNN을 사용한 중고 물품 가격 예측 (프로젝트)
-    - KNN을 사용한 사용자 추천 시스템 (프로젝트 진행중)
+    - CNN을 사용한 연관 상품 추천 시스템 (프로젝트 진행중)
     - YOLO 개념 및 예제
     - CNN 개념 및 예제
     - SVM 개념 및 예제
